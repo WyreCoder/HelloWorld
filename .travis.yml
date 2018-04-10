@@ -1,5 +1,6 @@
 language: java
 
 script:
-  - javac src/HelloWorld.java
-  - java src/HelloWorld
+  - cs src
+  - javac HelloWorld.java
+  - java HelloWorld
