@@ -1,0 +1,5 @@
+language: java
+
+script:
+  - javac src/HelloWorld.java
+  - java src/HelloWorld
